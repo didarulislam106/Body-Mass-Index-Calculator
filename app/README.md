@@ -27,16 +27,3 @@ Follow these instructions to set up and run the project on your local machine.
 1. your height (in meters).
 2. Enter your weight (in kilograms).
 3. View your BMI calculation instantly below the inputs.
-
-### Project Structure
-BodyMassIndex/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/bodymassindex/
-│   │   │   │   ├── MainActivity.kt
-│   │   │   ├── res/
-│   │   │   │   ├── values/
-│   │   │   │   │   ├── strings.xml
-│   │   │   │   │   ├── themes.xml
-│   │   │   │   │   ├── colors.xml
